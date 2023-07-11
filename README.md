@@ -11,10 +11,10 @@ MALDI Mass spectrometry imaging discloses the decline of sulfoglycosphingolipid 
 ## Usage
 
 The original mass spectrometry data in the manuscript were analyzed by SHIMADZU's Imaging MS Solution Ver.1.30, and the data types included the following:
-**Call PubTator:**
-**Optical diagram (bmp file)** 
-**Mass Spectrometry Data (kbd file)** 
-**ROI Analysis data (imd file)** 
+
+- **Optical diagram (bmp file)** 
+- **Mass Spectrometry Data (kbd file)** 
+- **ROI Analysis data (imd file)** 
 
 
 These datasets contain pre-processing and visualization of raw MS data. With Imaging MS solutions, you can open the following data:
