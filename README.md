@@ -6,7 +6,7 @@ MALDI Mass spectrometry imaging discloses the decline of sulfoglycosphingolipid 
 
 [张琦] (Zhang Qi)
 
-[王春艳] (Wang Chunyan)
+[王春艳] (Wang Chun-Yan)
 
 ## Usage
 
